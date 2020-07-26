@@ -1,0 +1,18 @@
+{
+    "name": "elderjs",
+    "version": "0.0.1",
+    "description": "A better way to build SEO focused sites.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "SEO"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nickreese/elderjs.git"
+    },
+    "author": "Nick Reese (Elder Guide LLC)",
+    "license": "MIT"
+}
